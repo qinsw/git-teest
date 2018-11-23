@@ -16,6 +16,7 @@ public class FirstClass {
     public void test(){
         int i = 0;
         i += 10;
+        int b = 0;
         System.out.println(i);
     }
 
